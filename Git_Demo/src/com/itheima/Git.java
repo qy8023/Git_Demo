@@ -6,4 +6,7 @@ public class Git {
 
         System.out.println("345");
     }
+    public void test1(){
+        System.out.println();
+    }
 }
