@@ -9,5 +9,7 @@ public class Git {
     public String Test2(){
         return "12";
     }
+    public void test1(){
+        System.out.println();
+    }
 }
-
